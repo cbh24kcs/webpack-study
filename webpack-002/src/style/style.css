@@ -1,0 +1,49 @@
+#box {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+#todo-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+#todo-list li {
+    transition: all 1s;
+}
+
+#todo-list li:hover {
+    background-color: green;
+    color: #fff;
+}
+
+.done {
+    color: #ccc;
+    text-decoration: line-through;
+}
+
+
+/* #a #b #c {
+
+}
+
+#a #m #n {
+
+} */
+
+
+/* #a {
+    #b {
+        #c {
+
+        }
+    }
+    #m {
+        #n {
+
+        }
+    }
+} */
+
+
